@@ -17,4 +17,4 @@ Launch the application:
 
 ### Instructions for Use
 
-Use the **+** or **-** buttons to increment or decrement the user's score, or **x** to delete a player. 
+Use the `+` or `-` buttons to increment or decrement the user's score, or `x` to delete a player. 
